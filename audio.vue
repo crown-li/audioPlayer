@@ -160,11 +160,6 @@ export default {
 </script>
 
 <style lang="less" scoped>
-    .video{
-        background: @whiteBg;
-        position: relative;
-        min-height: calc(100vh - 1.49rem);
-    }
     .player_audio{
         padding-bottom: 0.3rem;
         div{
